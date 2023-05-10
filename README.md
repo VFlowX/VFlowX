@@ -5,69 +5,69 @@
 
 ### Language
 <div style="display: flex; gap: 0.5rem; height: 24px">
-  <img src="https://api.iconify.design/logos:javascript.svg" title="Javascript">
-  <img src="https://api.iconify.design/logos:html-5.svg" title="HTML5">
-  <img src="https://api.iconify.design/logos:css-3.svg" title="CSS3">
+  <img src="https://api.iconify.design/logos:javascript.svg" title="Javascript" height="24">
+  <img src="https://api.iconify.design/logos:html-5.svg" title="HTML5" height="24">
+  <img src="https://api.iconify.design/logos:css-3.svg" title="CSS3" height="24">
   
 </div>
 
 ### Backend
 <div style="display: flex; gap: 0.5rem; height: 24px">
-  <img src="https://api.iconify.design/logos:docker-icon.svg" title="Docker">
-  <img src="https://api.iconify.design/logos:mongodb.svg" title="MongoDB">
-  <img src="https://api.iconify.design/logos:postgresql.svg" title="PostgreSql">
-  <img src="https://api.iconify.design/logos:sqlite.svg" title="Sqlite">
-  <img src="https://api.iconify.design/logos:mysql.svg" title="MySql">
-  <img src="https://api.iconify.design/logos:elasticsearch.svg" title="ElasticSearch">
-  <img src="https://api.iconify.design/logos:nodejs.svg" title="Nodejs">
-  <img src="https://api.iconify.design/logos:fastify-icon.svg" title="Fastify">
-  <img src="https://api.iconify.design/logos:express.svg" title="ExpressJs">
-  <img src="https://api.iconify.design/logos:rabbitmq-icon.svg" title="Rabbitmq">
+  <img src="https://api.iconify.design/logos:docker-icon.svg" title="Docker" height="24">
+  <img src="https://api.iconify.design/logos:mongodb.svg" title="MongoDB" height="24">
+  <img src="https://api.iconify.design/logos:postgresql.svg" title="PostgreSql" height="24">
+  <img src="https://api.iconify.design/logos:sqlite.svg" title="Sqlite" height="24">
+  <img src="https://api.iconify.design/logos:mysql.svg" title="MySql" height="24">
+  <img src="https://api.iconify.design/logos:elasticsearch.svg" title="ElasticSearch" height="24">
+  <img src="https://api.iconify.design/logos:nodejs.svg" title="Nodejs" height="24">
+  <img src="https://api.iconify.design/logos:fastify-icon.svg" title="Fastify" height="24">
+  <img src="https://api.iconify.design/logos:express.svg" title="ExpressJs" height="24">
+  <img src="https://api.iconify.design/logos:rabbitmq-icon.svg" title="Rabbitmq" height="24">
 </div>
 
 ### Design
 <div style="display: flex; gap: 0.5rem; height: 24px">
-  <img src="https://api.iconify.design/logos:figma.svg" title="Figma">
+  <img src="https://api.iconify.design/logos:figma.svg" title="Figma" height="24">
 </div>
 
 ### FrontEnd
 <div style="display: flex; gap: 0.5rem; height: 24px">
-  <img src="https://api.iconify.design/logos:vitejs.svg" title="ViteJs">
-  <img src="https://api.iconify.design/logos:vue.svg" title="Vue 2/3">
-  <img src="https://api.iconify.design/logos:unocss.svg" title="Unocss">
-  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" title="TailwindCss">
-  <img src="https://api.iconify.design/logos:vitest.svg" title="Vitest">
-  <img src="https://api.iconify.design/logos:pwa.svg" title="Progressive Web App">
-  <img src="https://api.iconify.design/logos:d3.svg" title="D3.js">
+  <img src="https://api.iconify.design/logos:vitejs.svg" title="ViteJs" height="24">
+  <img src="https://api.iconify.design/logos:vue.svg" title="Vue 2/3" height="24">
+  <img src="https://api.iconify.design/logos:unocss.svg" title="Unocss" height="24">
+  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" title="TailwindCss" height="24">
+  <img src="https://api.iconify.design/logos:vitest.svg" title="Vitest" height="24">
+  <img src="https://api.iconify.design/logos:pwa.svg" title="Progressive Web App" height="24">
+  <img src="https://api.iconify.design/logos:d3.svg" title="D3.js" height="24">
 </div>
 
 ## Connect with me
 <div style="display: flex; gap: 0.5rem;">
   <a target="" style="display: flex; height: 24px" href="https://t.me/HieuNT_vflowx" >
-    <img src="https://api.iconify.design/logos:telegram.svg" title="Telegram">
+    <img src="https://api.iconify.design/logos:telegram.svg" title="Telegram" height="24">
   </a>
   <a target="" style="display: flex; height: 24px" href="discordapp.com/users/541116729011470358">
-    <img src="https://api.iconify.design/logos:discord-icon.svg" title="Discord">
+    <img src="https://api.iconify.design/logos:discord-icon.svg" title="Discord" height="24">
   </a>
 </div>
 
 ## OS
 <div style="display: flex; gap: 0.5rem; height: 24px">
-  <img src="https://api.iconify.design/logos:microsoft-windows.svg">
-  <img src="https://api.iconify.design/logos:centos.svg">
+  <img src="https://api.iconify.design/logos:microsoft-windows.svg" height="24">
+  <img src="https://api.iconify.design/logos:centos.svg" height="24">
 </div>
 
 ## Editors
 <div style="display: flex; gap: 0.5rem; height: 24px">
-  <img src="https://api.iconify.design/logos:visual-studio-code.svg" title="Visual Studio Code">
-  <img src="https://api.iconify.design/logos:sublimetext-icon.svg" title="Sublime Text 3">
+  <img src="https://api.iconify.design/logos:visual-studio-code.svg" title="Visual Studio Code" height="24">
+  <img src="https://api.iconify.design/logos:sublimetext-icon.svg" title="Sublime Text 3" height="24">
 </div>
 
 ## Productivity Tools
 <div style="display: flex; gap: 0.5rem; height: 24px">
   <img src="https://upload.wikimedia.org/wikipedia/en/0/08/Joplin-icon.svg" title="Joplin" height="24">
-  <img src="https://api.iconify.design/logos:google-calendar.svg" title="Google Calendar">
-  <svg height="24" viewBox="0 0 88 88" xmlns="http://www.w3.org/2000/svg" class="logo_1OKcB"><g fill="none" fill-rule="evenodd"><rect></rect><path d="M30.755 33.292l-7.34 8.935L40.798 56.48a5.782 5.782 0 008.182-.854l31.179-38.93-9.026-7.228L43.614 43.83l-12.86-10.538z" fill="#FFB000"></path><path d="M44 78.1C25.197 78.1 9.9 62.803 9.9 44S25.197 9.9 44 9.9V0C19.738 0 0 19.738 0 44s19.738 44 44 44 44-19.738 44-44h-9.9c0 18.803-15.297 34.1-34.1 34.1" fill="#4772FA"></path></g></svg>
+  <img src="https://api.iconify.design/logos:google-calendar.svg" title="Google Calendar" height="24">
+  <img src="assets/ticktick.svg" title="Ticktick" height="24">
 </div>
 
 ## Development tools

@@ -22,7 +22,7 @@
   <img src="https://api.iconify.design/logos:nodejs.svg" title="Nodejs" height="24">
   <img src="https://api.iconify.design/logos:fastify-icon.svg" title="Fastify" height="24">
   <img src="https://api.iconify.design/logos:express.svg" title="ExpressJs" height="24">
-  <img src="https://api.iconify.design/logos:rabbitmq-icon.svg" title="Rabbitmq" height="24">
+  <!-- <img src="https://api.iconify.design/logos:rabbitmq-icon.svg" title="Rabbitmq" height="24"> -->
 </div>
 
 ### Design
@@ -38,7 +38,7 @@
   <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" title="TailwindCss" height="24">
   <img src="https://api.iconify.design/logos:vitest.svg" title="Vitest" height="24">
   <img src="https://api.iconify.design/logos:pwa.svg" title="Progressive Web App" height="24">
-  <img src="https://api.iconify.design/logos:d3.svg" title="D3.js" height="24">
+  <!-- <img src="https://api.iconify.design/logos:d3.svg" title="D3.js" height="24"> -->
 </div>
 
 ## Connect with me

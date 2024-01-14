@@ -34,7 +34,7 @@
   <img src="https://api.iconify.design/logos:express.svg" title="ExpressJs" height="24">
   <img src="https://nitro.unjs.io/nitro-light.png" title="Nitro" height="24">
   <img src="https://gofiber.io/assets/images/logo.svg" title="Fiber" height="24">
-  <img src="https://openfga.dev/img/openfga_logo.svg" title="OpenFGA" height="24">
+  <img src="assets/openfga_logo.svg" title="OpenFGA" height="24">
   <img src="https://api.iconify.design/arcticons:tailscale.svg" title="Tailscale" height="24">
   <!-- <img src="https://api.iconify.design/logos:rabbitmq-icon.svg" title="Rabbitmq" height="24"> -->
 </div>

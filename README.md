@@ -13,7 +13,7 @@
   <img src="https://api.iconify.design/vscode-icons:file-type-go-gopher.svg" title="Go" height="24">
 </div>
 
-### More
+### Markup
 
 <div style="display: flex; gap: 0.5rem; height: 24px">
   <img src="https://api.iconify.design/logos:html-5.svg" title="HTML5" height="24">
@@ -32,7 +32,7 @@
   <img src="https://api.iconify.design/logos:nodejs.svg" title="Nodejs" height="24">
   <!-- <img src="https://api.iconify.design/logos:fastify-icon.svg" title="Fastify" height="24"> -->
   <img src="https://api.iconify.design/logos:express.svg" title="ExpressJs" height="24">
-  <img src="https://nitro.unjs.io/nitro-light.png" title="Nitro" height="24">
+  <img src="https://nitro.unjs.io/icon.svg" title="Nitro" height="24">
   <img src="https://gofiber.io/assets/images/logo.svg" title="Fiber" height="24">
   <img src="assets/openfga_logo.svg" title="OpenFGA" height="24">
   <img src="https://api.iconify.design/arcticons:tailscale.svg" title="Tailscale" height="24">
@@ -77,7 +77,7 @@
 
 <div style="display: flex; gap: 0.5rem; height: 24px">
   <img src="https://api.iconify.design/logos:docker-icon.svg" title="Docker" height="24">
-  <img src="https://api.iconify.design/devicon:vsphere.svg" height="24">
+  <img src="https://api.iconify.design/devicon:vsphere.svg" title="VSphere" height="24">
 </div>
 
 ## OS
